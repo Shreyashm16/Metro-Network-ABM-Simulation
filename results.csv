@@ -1,0 +1,12 @@
+,,Peak,,,
+,Average Total Wait Time,Average Per Station Wait Time,Average Total Trip Time,Average Station Congestion,Average Train Congestion
+"Before (Metro Capacity = 72, Station Stop Time = 3 minutes )",42.78,25.92,175.41,2985,23.24
+"After (Metro Capacity = 78, Station Stop Time = 1 minute )",20.35,19,96.8,2083,20.55
+Change (%),52.43,26.70,44.82,30.22,11.57
+,,,,,
+,,,,,
+,,Average,,,
+,Average Total Wait Time,Average Per Station Wait Time,Average Total Trip Time,Average Station Congestion,Average Train Congestion
+"Before (Metro Capacity = 72, Station Stop Time = 3 minutes )",3.59,1.16,37.41,279.69,2.44
+"After (Metro Capacity = 78, Station Stop Time = 1 minute )",1.7,1.67,23.37,137.83,1.86
+Change (%),52.65,-43.97,37.53,50.72,23.77
